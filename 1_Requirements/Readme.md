@@ -20,10 +20,15 @@
 **How**: Implementing the scoreboard using C language.
 # Detail Requirements
 ## High level requirements
-1. Sepearate page design for this design.
-2. Display the correct score.
+| ID  | Description  | Status |
+|---|---|---|
+| HLR_1  | Get the players name  | Implemented  |
+| HLR_2  | Display the set score  | Implemented  |
+| HLR_3  | Diplay the current set score  | Implemented  |
+
 ## Low level requirements
-1. Player's name
-2. Player's country
-3. Highest continuous points
-4. The number of sets won by the player.
+| ID  | Description  | Status |
+|---|---|---|
+| HLR_1  | Players names are taken as string  | Implemented  |
+| HLR_2  | Set score is printed as integer| Implemented  |
+| HLR_3  | Current set score is printed as integer | Implemented  |
